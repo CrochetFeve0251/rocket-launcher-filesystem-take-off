@@ -1,0 +1,24 @@
+{
+  "name": "crochetfeve0251/rocket-launcher-filesystem-take-off",
+  "description": "Initaliaze filesystem library for Rocket Launcher",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "type": "library",
+  "authors": [
+    {
+      "name": "coquardcyr",
+      "email": "coquardcyr@gmail.com"
+    }
+  ],
+  "require": {
+    "crochetfeve0251/rocket-launcher-filesystem": "^0.0.1"
+  },
+  "extra": {
+    "rocket-launcher": {
+      "clean": true,
+      "libraries" : {
+        "crochetfeve0251/rocket-launcher-filesystem": "^0.0.1"
+      }
+    }
+  }
+}
