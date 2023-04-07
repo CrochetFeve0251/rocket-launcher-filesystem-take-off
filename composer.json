@@ -1,6 +1,6 @@
 {
   "name": "wp-launchpad/filesystem-take-off",
-  "description": "Initialize filesystem library for Launchpad launchpad",
+  "description": "Initialize filesystem library for Launchpad framework",
   "minimum-stability": "stable",
   "license": "proprietary",
   "type": "library",
