@@ -1,8 +1,8 @@
-# rocket-launcher-filesystem-take-off
-Install a logger to the Rocket Launcher Framework.
+# filesystem-take-off
+Install a filesystem to the Launchpad Framework.
 
 ## Install
-To install run the folowing command : `composer require crochetfeve0251/rocket-launcher-filesystem-take-off --dev`
+To install run the following command : `composer require wp-launchpad/filesystem-take-off --dev`
 
 ## Library
-The library installed is [`crochetfeve0251/rocket-launcher-filesystem`](https://github.com/CrochetFeve0251/rocket-launcher-filesystem), you can check the repository to check the code and the documentation.
+The library installed is [`wp-launchpad/filesystem`](https://github.com/CrochetFeve0251/rocket-launcher-filesystem), you can check the repository to check the code and the documentation.

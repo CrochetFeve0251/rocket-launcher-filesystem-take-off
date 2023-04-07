@@ -1,6 +1,6 @@
 {
-  "name": "crochetfeve0251/rocket-launcher-filesystem-take-off",
-  "description": "Initaliaze filesystem library for Rocket Launcher",
+  "name": "wp-launchpad/filesystem-take-off",
+  "description": "Initialize filesystem library for Launchpad launchpad",
   "minimum-stability": "stable",
   "license": "proprietary",
   "type": "library",
@@ -11,13 +11,13 @@
     }
   ],
   "require": {
-    "crochetfeve0251/rocket-launcher-filesystem": "^0.0.1"
+    "wp-launchpad/filesystem": "^0.0.2"
   },
   "extra": {
-    "rocket-launcher": {
+    "launchpad": {
       "clean": true,
       "libraries" : {
-        "crochetfeve0251/rocket-launcher-filesystem": "^0.0.1"
+        "wp-launchpad/filesystem": "^0.0.2"
       }
     }
   }
